@@ -1,5 +1,6 @@
 # **29-05-2026 PYTHON BASICS**
 
+
 Python is a high-level, interpreted programming language that is easy to read and write. Python focuses on readability, simplicity, and productivity.
 
 Python is used in Web Development, Data Science, AI/ML, Automation, Cloud & DevOps, Cyber Security.
